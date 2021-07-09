@@ -7,6 +7,6 @@ The files in this repository replicate the main model run in the publication "Wi
 
 - The executable provided works on Windows 10, but will not work on MacOS or Linux. In that case, you will have to compile GOTM-Selmaprotbas yourself; see code & instructions on https://github.com/jorritmesman/selmaprotbas. 
 
-- To run the base (i.e. no wind perturbations) RCP8.5 simulation, so need to replace the references to the meteorological file inside gotm.yaml to `Erken_MetFile_1960-2020_climate_run.dat`. Note that in this file, air temperatures have only been scaled from 1991 onwards.  
+- To run the base (i.e. no wind perturbations) RCP8.5 simulation, you need to replace the references to the meteorological file inside gotm.yaml to `Erken_MetFile_1960-2020_climate_run.dat`. Note that in this file, air temperatures have only been scaled from 1991 onwards.  
 
 - To run the other scenarios in the study, you need to follow the description in the Methodology section (or contact the corresponding author). 
