@@ -1,7 +1,7 @@
 # Erken_GOTM_SP_setup
 Setup of the GOTM-Selmaprotbas model for Lake Erken
 
-The files in this repository replicate the main model run in the publication "Wind speed, thermal  structure, nutrients, and light availability control phytoplankton response to storms in a stratified lake: a modelling study", by J.P. Mesman, A.I. Ayala, S. Goyette, J. Kasparian, R. Marcé, H. Markensten, J.A.A. Stelzer, M. Thayne, M.K. Thomas, D.C. Pierson, and B.W. Ibelings (not yet published).
+The files in this repository replicate the main model run in the publication "Drivers of phytoplankton responses to summer wind events in a stratified lake: A modeling study", by J.P. Mesman, A.I. Ayala, S. Goyette, J. Kasparian, R. Marcé, H. Markensten, J.A.A. Stelzer, M. Thayne, M.K. Thomas, D.C. Pierson, and B.W. Ibelings (2022), Limnology and Oceanography, 67(4), 856-873, doi:10.1002/lno.12040
 
 - To run the model, clone this repository, open command prompt, navigate to the folder on your local machine in command prompt, and type `gotm`
 
